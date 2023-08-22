@@ -4,7 +4,6 @@ body {
 
 .header {
     text-align: center;
-    padding: 20px;
 }
 
 .post {
@@ -20,12 +19,12 @@ body {
 
 nav {
     background: rgba(255, 255, 255, 0.801);
-    padding: 020px;
+    padding: 20px;
 }
 
 nav a {
     color: black;
-    padding: 10px;
+    padding-left: 20px;
     font-size: 20px;
 }
 
@@ -59,4 +58,8 @@ body {
 .post p {
     font-size: 20px;
     text-align: justify;
+}
+
+.post-content {
+    padding: 20px;
 }
